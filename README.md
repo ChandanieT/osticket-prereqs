@@ -33,30 +33,50 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/mIIKyih.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-IIS was enable by going to control panel > programes > programesandfeatures, clicking on turn windows features on and off, and selecting IIS. It can also be enable by using PowerShell and Server Manager. Internet Information Services (IIS) is a flexible, general-purpose web server from Microsoft that runs on Windows systems.
-</p>
+IIS was enable by going to "control panel" > "programs" > "programs and features", clicking on "turn windows features on and off", and selecting IIS. It can also be enable by using PowerShell and Server Manager. Internet Information Services (IIS) is a flexible, general-purpose web server from Microsoft that runs on Windows systems to serve requested HTML pages or files and can be used to host, deploy, and manage web applications using technologies such as ASP.NET and PHP.
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/x9HRiEo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Web Platform Istaller was download and installed.
+Microsoft web platform is a free tool that makes it simple to download, install and keep up-to-date with the latest components of the Microsoft Web Platform, including Internet Information Services (IIS), SQL Server Express, .NET Framework and Visual Studio. 
+
+Deeper confirguration:
+- Open after installation, "MySQL 5.5" and simple versions of x86 PHP (until 7.3) was added. 
+- Credentials were created (name & password
+- failures were fixed by downloading the necessary files belows: "Installed PHP Manager 1.5.0" for IIS 10 and "Microsoft Visual C++ 2009 Redistributable Package".
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/Hm340w0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTicket was downloaded and extracted. the “upload” folder was copied INTO "c:\inetpub\wwwroot" and Within "c:\inetpub\wwwroot", “upload” folder was renamed to “osTicket”. OsTicket was launched on a web broswer for set up by click on Broswer 80 (as shown above)
+
+Osticket is an open source support ticket system and customer support platformn. The software features a built-in customer portal that allows users to submit tickets and track the status of their requests. The osticket uses a MysQL database to store information.
+
+Deeper Configuration:
+- Enabled Extensions in IIS: 
+- Assign Permissions: ost-config.php
+- Continue Setting up osTicket in the browser 
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/cQxnocY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+HeidiSQL was downloaded and installed. A new section was created along with a new Osticket datatbase. 
+
+HeidiSQL is a free open source database management tool that runs under Windows. It provides features to manage on your desktop database actions that range from creating a database to exporting data as a dump file or csv files. It includes an integrated help for the SQL language, allows connecting to multiple local and or remote database servers and can be used with command line parameters.
+
+Deeper Configuration:
+- Osticket was fully step up on the broswer with all the necessary information and installed successfully.
 </p>
 <br />
