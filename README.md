@@ -44,7 +44,7 @@ IIS was enable by going to "control panel" > "programs" > "programs and features
 Web Platform Istaller was download and installed.
 Microsoft web platform is a free tool that makes it simple to download, install and keep up-to-date with the latest components of the Microsoft Web Platform, including Internet Information Services (IIS), SQL Server Express, .NET Framework and Visual Studio. 
 
-Deeper confirguration:
+Deeper Installations:
 - Open after installation, "MySQL 5.5" and simple versions of x86 PHP (until 7.3) was added. 
 - Credentials were created (name & password
 - failures were fixed by downloading the necessary files belows: "Installed PHP Manager 1.5.0" for IIS 10 and "Microsoft Visual C++ 2009 Redistributable Package".
@@ -60,7 +60,7 @@ osTicket was downloaded and extracted. the “upload” folder was copied INTO "
 
 Osticket is an open source support ticket system and customer support platformn. The software features a built-in customer portal that allows users to submit tickets and track the status of their requests. The osticket uses a MysQL database to store information.
 
-Deeper Configuration:
+Deeper Installations:
 - Enabled Extensions in IIS: 
 - Assign Permissions: ost-config.php
 - Continue Setting up osTicket in the browser 
@@ -76,7 +76,7 @@ HeidiSQL was downloaded and installed. A new session was created along with a ne
 
 HeidiSQL is a free open source database management tool that runs under Windows. It provides features to manage on your desktop database actions that range from creating a database to exporting data as a dump file or csv files. It includes an integrated help for the SQL language, allows connecting to multiple local and or remote database servers and can be used with command line parameters.
 
-Deeper Configuration:
+Deeper Installation:
 - Osticket was fully step up on the broswer with all the necessary information and installed successfully.
 </p>
 <br />
