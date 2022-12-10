@@ -72,7 +72,7 @@ Deeper Configuration:
 <img src="https://i.imgur.com/cQxnocY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-HeidiSQL was downloaded and installed. A new section was created along with a new Osticket datatbase. 
+HeidiSQL was downloaded and installed. A new session was created along with a new Osticket datatbase. 
 
 HeidiSQL is a free open source database management tool that runs under Windows. It provides features to manage on your desktop database actions that range from creating a database to exporting data as a dump file or csv files. It includes an integrated help for the SQL language, allows connecting to multiple local and or remote database servers and can be used with command line parameters.
 
