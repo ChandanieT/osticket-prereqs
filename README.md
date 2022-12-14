@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/mIIKyih.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-IIS was enable by going to "control panel" > "programs" > "programs and features", clicking on "turn windows features on and off", and selecting IIS. It can also be enable by using PowerShell and Server Manager. Internet Information Services (IIS) is a flexible, general-purpose web server from Microsoft that runs on Windows systems to serve requested HTML pages or files and can be used to host, deploy, and manage web applications using technologies such as ASP.NET and PHP.
+IIS was enable by going to control panel> programs> programs and features, clicking on turn windows features on and off, and selecting IIS. It can also be enable by using PowerShell and Server Manager. Internet Information Services (IIS) is a flexible, general-purpose web server from Microsoft that runs on Windows systems to serve requested HTML pages or files and can be used to host, deploy, and manage web applications using technologies such as ASP.NET and PHP.
 <br />
 
 
@@ -46,7 +46,7 @@ Microsoft web platform is a free tool that makes it simple to download, install 
 
 Deeper Installations:
 - Open after installation, "MySQL 5.5" and simple versions of x86 PHP (until 7.3) was added. 
-- Credentials were created (name & password
+- Credentials were created (name & password)
 - failures were fixed by downloading the necessary files belows: "Installed PHP Manager 1.5.0" for IIS 10 and "Microsoft Visual C++ 2009 Redistributable Package".
 </p>
 <br />
@@ -56,7 +56,7 @@ Deeper Installations:
 <img src="https://i.imgur.com/Hm340w0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
 <p>
-osTicket was downloaded and extracted. the “upload” folder was copied INTO "c:\inetpub\wwwroot" and Within "c:\inetpub\wwwroot", “upload” folder was renamed to “osTicket”. OsTicket was launched on a web broswer for set up by click on Broswer 80 (as shown above)
+osTicket was downloaded and extracted. the upload folder was copied INTO "c:\inetpub\wwwroot" and Within "c:\inetpub\wwwroot", the upload folder was renamed to “osTicket”. OsTicket was launched on a web broswer for set up by click on Broswer 80 (as shown above)
 
 Osticket is an open source support ticket system and customer support platformn. The software features a built-in customer portal that allows users to submit tickets and track the status of their requests. The osticket uses a MysQL database to store information.
 
