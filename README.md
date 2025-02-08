@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Prerequisites and Installation (incomplete) </h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -77,6 +77,6 @@ HeidiSQL was downloaded and installed. A new session was created along with a ne
 HeidiSQL is a free open source database management tool that runs under Windows. It provides features to manage on your desktop database actions that range from creating a database to exporting data as a dump file or csv files. It includes an integrated help for the SQL language, allows connecting to multiple local and or remote database servers and can be used with command line parameters.
 
 Deeper Installation:
-- Osticket was fully step up on the broswer with all the necessary information and installed successfully.
+- Osticket was fully step up on the broswer with all the necessary information and installed successfully. (I havent had the time to update/finish this)
 </p>
 <br />
